@@ -1,4 +1,4 @@
-# ![Title](additional-files/osint1--title.png)
+# ![Title](additional-files/osint1-title.png)
 
 ## Description
 
