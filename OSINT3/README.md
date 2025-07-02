@@ -44,7 +44,7 @@ There's a TryHackMe room called OSINT Dojo. It's a room specifically made for OS
 
 ---
 
-[![Rainbolt's Video](additional-files/rainbolt.png)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![Rainbolt's Video](additional-files/rainbolt.png)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=oD10LyQvhq0&pp=ygUacmFpbmJvbHQgSSB0b29rIGEgY2lhIHRlc3Q%3D))
 
 In his video, the way he extracted the email from the PGP key is using a software named <b>Kleopatra</b>. I quickly installed the Kleopatra software afterwards. I made a .asc file containing the key and imported it to Kleopatra for it to decode. However, no results appeared.
 
